@@ -1,0 +1,11 @@
+
+# dependencies
+/todo-list/node_modules
+/todo-list/.pnp
+/todo-list/.pnp.js
+
+
+/BackEnd/.idea
+/BackEnd/target
+
+

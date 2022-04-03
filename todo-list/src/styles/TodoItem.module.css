@@ -1,0 +1,37 @@
+.item {
+  width: 300px;
+  height: fit-content;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+.deleteBtn {
+  background-color: #f44336;
+  width: 10vh;
+  height: 5vh;
+  border-radius: 3px;
+  border: none;
+  color: white;
+  margin-left: auto;
+}
+
+.viewBtn {
+  background-color: royalblue;
+  width: 10vh;
+  height: 5vh;
+  border-radius: 3px;
+  border: none;
+  color: white;
+  margin-left: auto;
+}
+
+label {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.textDecoration {
+  text-decoration: line-through;
+}
